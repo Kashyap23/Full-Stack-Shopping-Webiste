@@ -1,0 +1,3 @@
+SHOPPING WEBSITE
+- BACKEND - Django
+- FRONTEND - ReactJS
