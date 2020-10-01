@@ -1,6 +1,10 @@
 SHOPPING WEBSITE
-Using Django(Python) : For Backend it is supereasy to add items to shopping cart and also manage dashboard
-Using ReactJs(Javascript): For Frontend, frontend is page redirected it self without calling specific quries or fire quires to database
+.
+.
+.
+Using Django(Python) : For Backend it is supereasy to add items to shopping cart and also manage dashboard.
+.
+Using ReactJs(Javascript): For Frontend, frontend is page redirected it self without calling specific quries or fire quires to database.
 
 And the Best Data-Base for Shopping website is MongoDB
 The MangoDB have best resporsources to handle user and payment gateways
